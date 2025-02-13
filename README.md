@@ -23,5 +23,5 @@ The dataset used in this project is stored locally in CSV format. It contains me
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/diabetes-prediction.git
-   cd diabetes-prediction
+   git clone https://github.com/Jayaprakashsuseelam/DiabetesPrediction.git
+   cd DiabetesPrediction
